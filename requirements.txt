@@ -4,3 +4,4 @@ python-whois
 base64
 socket
 re
+Delete requirements.txt
