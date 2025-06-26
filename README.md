@@ -46,6 +46,7 @@
 3. Run the app
 streamlit run phishing-detector.py
 
+Or Simply Open this Link "https://phishing-url-scanner.streamlit.app/" 
 
 
 ## 📊 Example Outputs
@@ -64,6 +65,7 @@ Streamlit
 VirusTotal Public API
 WHOIS
 
+## You can use  " https://phishing-url-scanner.streamlit.app/ " this link to check my website.
 
 ## ✍️ Author
 Made with ❤️ by Vishal Prajapati
