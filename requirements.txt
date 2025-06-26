@@ -1,0 +1,6 @@
+streamlit
+requests
+python-whois
+base64
+socket
+re
